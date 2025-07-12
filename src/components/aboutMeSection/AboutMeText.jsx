@@ -7,7 +7,7 @@ const AboutMeText = () => {
       <p>
         I’m Aminu Goni Bukar, a First-Class graduate of Software Engineering, web development instructor,
         and passionate full-stack engineer focused on building inclusive, impactful, and user-driven solutions.
-        With strong proficiency in React, Python, PHP, and MySQL, I design and develop real-world systems that enhance accessibility, 
+        With strong proficiency in React, Laravel, Python, PHP, and MySQL, I design and develop real-world systems that enhance accessibility, 
         automate workflows, and address challenges across sectors like education, finance, and health tech.
         I currently serve as a Software Engineer at KAEDCO, where I led the full development of an internal ICT Welfare Loan Application system that
         streamlined staff financing operations. I also spearheaded the creation of an assistive voice-activated system for the visually impaired, 
