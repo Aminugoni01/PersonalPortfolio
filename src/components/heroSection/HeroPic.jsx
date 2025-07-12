@@ -13,7 +13,7 @@ const HeroPic = () => {
     >
       <img
         src="/images/HexaPic.png"
-        alt="Aminu Goni Qassem"
+        alt="Aminu Goni  "
         className="max-h-[450px] w-auto"
       />
 
