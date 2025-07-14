@@ -5,14 +5,14 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "Vacation of Africa",
-    year: "Mar2022",
+    name: "KEDCO Loan Application",
+    year: "Mar2024",
     align: "right",
     image: "/images/website-img-1.jpg",
-    link: "#",
+    link: "https://ictloan.kadunaelectric.com/",
   },
   {
-    name: "Moola App",
+    name: "Ai Powered Student Guide",
     year: "Sept2022",
     align: "left",
     image: "/images/website-img-2.webp",

@@ -30,7 +30,7 @@ const HeroText = () => {
         viewport={{ once: false, amount: 0 }}
         className="text-lg mt-4"
       >
-        A Passionate Software Engineer <br /> with 6 years of
+        A Passionate Software Engineer <br /> with 5 years of
         experience.
       </motion.p>
     </div>
