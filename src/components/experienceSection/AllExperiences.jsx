@@ -5,6 +5,26 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const experiences = [
   {
+    job: "Student IT Team Lead",
+    company: "NetStandard ICT Solutions",
+    date: "May 2019 – Jan 2023",
+    responsibilities: [
+      "Led student intern team and tracked tasks.",
+      "Organized weekly meetings with engineers.",
+      "Promoted agile workflows and peer learning.",
+    ],
+  },
+  {
+    job: "Database Engineer (Conceptual Level)",
+    company: "NetStandard ICT Solutions",
+    date: "Jan 2020 – 2023",
+    responsibilities: [
+      "Designed scalable database schemas.",
+      "Trained junior devs on databases.",
+      "Supported SQL scripting and tuning.",
+    ],
+  }, 
+  {
     job: "Software Engineer, ICT Welfare Services",
     company: "KAEDCO",
     date: "Oct 2024 – Present",
@@ -14,26 +34,6 @@ const experiences = [
       "Automated email alerts with PHP Mailer.",
       "Ensured data accuracy and security.",
       "Maintained system and trained staff.",
-    ],
-  },
-  {
-    job: "Database Engineer (Conceptual Level)",
-    company: "NetStandard ICT Solutions",
-    date: "Jan 2022 – Jan 2023",
-    responsibilities: [
-      "Designed scalable database schemas.",
-      "Trained junior devs on databases.",
-      "Supported SQL scripting and tuning.",
-    ],
-  },
-  {
-    job: "Student IT Team Lead",
-    company: "NetStandard ICT Solutions",
-    date: "May 2022 – Jan 2023",
-    responsibilities: [
-      "Led student intern team and tracked tasks.",
-      "Organized weekly meetings with engineers.",
-      "Promoted agile workflows and peer learning.",
     ],
   },
 ];
