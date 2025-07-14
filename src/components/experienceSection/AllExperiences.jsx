@@ -9,11 +9,11 @@ const experiences = [
     company: "KAEDCO",
     date: "Oct 2024 – Present",
     responsibilities: [
-      "Led planning, development, and deployment of the ICT Welfare Loan Application system.",
-      "Built user authentication flows, loan tracking modules, and role-based access for staff, administrators, and finance officers.",
-      "Integrated SMTP mail servers with PHP Mailer to automate multi-level email alerts, reducing communication delays.",
-      "Ensured data accuracy and security through validation logic and optimized MySQL queries.",
-      "Provided ongoing system maintenance and staff training, contributing to sustained operational efficiency.",
+      "Led ICT Welfare Loan Application project.",
+      "Built authentication and loan tracking modules.",
+      "Automated email alerts with PHP Mailer.",
+      "Ensured data accuracy and security.",
+      "Maintained system and trained staff.",
     ],
   },
   {
@@ -21,9 +21,9 @@ const experiences = [
     company: "NetStandard ICT Solutions",
     date: "Jan 2022 – Jan 2023",
     responsibilities: [
-      "Designed normalized database schemas for business-critical software solutions, prioritizing data integrity and scalability.",
-      "Delivered training sessions and hands-on workshops to junior developers and interns on relational database concepts.",
-      "Supported the development team with SQL scripting, performance tuning, and database design optimization.",
+      "Designed scalable database schemas.",
+      "Trained junior devs on databases.",
+      "Supported SQL scripting and tuning.",
     ],
   },
   {
@@ -31,9 +31,9 @@ const experiences = [
     company: "NetStandard ICT Solutions",
     date: "May 2022 – Jan 2023",
     responsibilities: [
-      "Coordinated a team of student interns, assigning tasks, tracking progress, and ensuring project deadlines were met.",
-      "Organized weekly collaborative meetings with senior engineers to bridge knowledge gaps and deliver impactful internal tools.",
-      "Encouraged team innovation by promoting agile workflows and peer learning, leading to improved productivity and project delivery.",
+      "Led student intern team and tracked tasks.",
+      "Organized weekly meetings with engineers.",
+      "Promoted agile workflows and peer learning.",
     ],
   },
 ];
